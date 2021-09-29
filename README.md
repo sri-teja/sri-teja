@@ -8,4 +8,4 @@
 
 - :raised_hands: I would love to interact with and help/learn from entrepreneurs building Startups.
 
-- :email: I am available at [linkedin.com/sriteja95](https://linkedin.com/profile/sriteja95)
+- :email: I am available at [linkedin.com/in/sriteja95](https://www.linkedin.com/in/sriteja95/)
