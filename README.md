@@ -2,7 +2,7 @@
 
 - :computer: I'm currently working on Swipe with an awesome team.
  
-- :mortar_board: I did my `Btech and MS by Research in Computer Science` at [IIIT Hyderabad](http://www.iiit.ac.in), India.
+- :mortar_board: I did my `Btech and MS by Research in Computer Science` at IIIT Hyderabad, India.
 
 - :dollar: I'm learning about all stuff that goes in and around building a company.
 
