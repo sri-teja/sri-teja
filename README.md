@@ -1,9 +1,9 @@
-### Hi there, I'm Sri Teja 👋
+### Hi, I'm Sri Teja 👋
 
-- :computer: I'm currently working on Swipe with an awesome team.
- 
-- :mortar_board: I did my `Btech and MS by Research in Computer Science` at IIIT Hyderabad, India.
+Co-founder & CTO at [Swipe](https://getswipe.in). I build products and the large-scale systems behind them, and lately a lot of it together with AI coding agents.
 
-- :dollar: I'm learning about all stuff that goes in and around building a company.
+- 🏗️ **Building:** [Swipe](https://getswipe.in): billing, invoicing and business software for growing businesses in India.
+- 🎓 **Background:** B.Tech and MS by Research in Computer Science at IIIT Hyderabad (data mining, ML, information retrieval). Papers at IEEE ICDM Workshops and IEEE ICBK.
+- 🤝 Always happy to talk with people building startups or developer tools.
 
-- :raised_hands: I would love to interact with and help/learn from entrepreneurs building Startups.
+[Website](https://sri-teja.github.io) · [LinkedIn](https://www.linkedin.com/in/sriteja95)
